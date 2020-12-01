@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KeisukeYamashita/auto-merge-on-status.git"
+    "url": "git+https://github.com/KeisukeYamashita/auto-dependabot-merge-on-status.git"
   },
   "keywords": [
     "actions",
